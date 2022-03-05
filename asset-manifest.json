@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://robsonandrade81.github.io/csb-ecfv33/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://robsonandrade81.github.io/csb-ecfv33/static/js/main.ff065753.chunk.js",
+    "main.js.map": "https://robsonandrade81.github.io/csb-ecfv33/static/js/main.ff065753.chunk.js.map",
+    "runtime-main.js": "https://robsonandrade81.github.io/csb-ecfv33/static/js/runtime-main.65754e95.js",
+    "runtime-main.js.map": "https://robsonandrade81.github.io/csb-ecfv33/static/js/runtime-main.65754e95.js.map",
+    "static/js/2.fb834de3.chunk.js": "https://robsonandrade81.github.io/csb-ecfv33/static/js/2.fb834de3.chunk.js",
+    "static/js/2.fb834de3.chunk.js.map": "https://robsonandrade81.github.io/csb-ecfv33/static/js/2.fb834de3.chunk.js.map",
+    "index.html": "https://robsonandrade81.github.io/csb-ecfv33/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://robsonandrade81.github.io/csb-ecfv33/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fb834de3.chunk.js.LICENSE.txt": "https://robsonandrade81.github.io/csb-ecfv33/static/js/2.fb834de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65754e95.js",
+    "static/js/2.fb834de3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ff065753.chunk.js"
+  ]
+}
